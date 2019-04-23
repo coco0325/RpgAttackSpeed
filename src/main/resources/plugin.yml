@@ -1,0 +1,9 @@
+name: RAS
+version: ${project.version}
+main: me.coco0325.ras
+authors: [coco0325]
+description: Upgrade Minecraft attack cooldown
+
+permissions:
+  ras.ignore:
+    description: Ignore damage canceling
